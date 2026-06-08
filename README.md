@@ -72,7 +72,7 @@ The dataset contains business transaction records including:
 3. Open the Jupyter Notebook.
 4. Run all cells sequentially.
 5. Explore the visualizations and insights generated from the dataset.
-6. 
+
 
 ## 👩‍💻 Author
 **Akhila Nagapuri**  
