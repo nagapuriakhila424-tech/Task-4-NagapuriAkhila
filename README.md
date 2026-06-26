@@ -76,4 +76,5 @@ The dataset contains business transaction records including:
 
 ## 👩‍💻 Author
 **Akhila Nagapuri**  
-Data Analytics Intern
+Aspiring Data Analytics|Python|SQL
+
